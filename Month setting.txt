@@ -1,0 +1,15 @@
+<B> Month: </B>
+<select>
+<option value = "January">JAN
+<option value = "February">FEB
+<option value = "March">MAR
+<option value = "April">APR
+<option value = "May">May
+<option value = "June">JUN
+<option value = "July">JUL
+<option value = "August">AUG
+<option value = "September">SEP
+<option value = "October">OCT
+<option value = "November">NOV
+<option value = "December">DEC
+</select> </br></br>
